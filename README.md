@@ -36,18 +36,6 @@ I enjoy:
 
 ---
 
-## 📂 Featured Projects
-
-### 🍷 Wine Quality Analysis
-Exploratory data analysis and machine learning modeling to predict wine quality using physicochemical features.  
-- Data preprocessing & visualization  
-- Feature correlation analysis  
-- Model training & evaluation  
-
-[(https://github.com/sainofo/Wine-Quality-Analysis)]
-
----
-
 ## 📈 Current Focus
 
 - Improving machine learning modeling skills  
