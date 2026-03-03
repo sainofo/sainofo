@@ -14,5 +14,5 @@ Pandas • NumPy • Scikit-learn
 - 🎮 C++ Maze Game – Grid-based console game  
 
 ## 📫 Connect
-LinkedIn: [https://www.linkedin.com/in/sainofofanene/]  
+LinkedIn: https://www.linkedin.com/in/sainofofanene/  
 Email: sainofofanene@gmail.com
