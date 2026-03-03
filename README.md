@@ -1,43 +1,18 @@
-# Hi, I'm Sainofo Fanene 👋
+# Hi, I'm [Sainofo Fanene] 👋
 
-🎓 Data Analytics major with a minor in Business  
-💡 Interested in Software Engineering, Business Analytics, and Data-Driven Solutions  
-📊 Passionate about turning data into actionable insights  
+🎓 Data Analytics major | Minor in Business  
+💻 Interested in Software Engineering & Business Analytics  
+📊 Turning data into practical, data-driven solutions  
 
----
+## 🛠 Skills
+Python • R • Excel • SQL • Git  
+Pandas • NumPy • Scikit-learn  
 
-## 🚀 About Me
+## 🚀 Featured Projects
+- 🍷 Wine Quality Analysis – Machine learning & EDA project  
+- 🎵 Python Music Player – Desktop audio application  
+- 🎮 C++ Maze Game – Grid-based console game  
 
-I combine analytical thinking with business understanding to build data-driven and technical solutions.  
-My interests lie at the intersection of data, technology, and strategy — where insights drive smarter decisions.
-
-I enjoy:
-- Exploring datasets and uncovering meaningful patterns
-- Building predictive models
-- Designing structured and scalable solutions
-- Bridging the gap between business needs and technical implementation
-
-Current Focuses:
-- Improving machine learning modeling skills  
-- Strengthening software engineering fundamentals  
-- Building end-to-end data analytics projects  
----
-
-## 🛠 Technical Skills
-
-**Languages & Tools**
-- Python  
-- R  
-- Excel  
-- SQL  
-- Git & GitHub  
-
-**Libraries & Frameworks**
-- Pandas  
-- NumPy  
-- Scikit-learn  
-- Matplotlib / Seaborn
-- 
----
-
-⭐ Always learning. Always building.
+## 📫 Connect
+LinkedIn: [[](https://www.linkedin.com/in/sainofofanene/)]  
+Email: [sainofofanene@gmail.com]
