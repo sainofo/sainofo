@@ -17,6 +17,10 @@ I enjoy:
 - Designing structured and scalable solutions
 - Bridging the gap between business needs and technical implementation
 
+Current Focuses:
+- Improving machine learning modeling skills  
+- Strengthening software engineering fundamentals  
+- Building end-to-end data analytics projects  
 ---
 
 ## 🛠 Technical Skills
@@ -32,15 +36,8 @@ I enjoy:
 - Pandas  
 - NumPy  
 - Scikit-learn  
-- Matplotlib / Seaborn  
-
----
-
-## 📈 Current Focus
-
-- Improving machine learning modeling skills  
-- Strengthening software engineering fundamentals  
-- Building end-to-end data analytics projects  
+- Matplotlib / Seaborn
+- 
 ---
 
 ⭐ Always learning. Always building.
